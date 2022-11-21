@@ -1,0 +1,16 @@
+textarea, input {
+    display: block;
+}
+
+#input {
+    width: 400px;
+    height: 300px;
+}
+
+#chapter {
+    width: 400px;
+}
+
+input {
+    margin-top: 20px;
+}

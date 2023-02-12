@@ -14,3 +14,9 @@ textarea, input {
 input {
     margin-top: 20px;
 }
+
+.buttons {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

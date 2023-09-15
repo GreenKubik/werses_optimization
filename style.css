@@ -2,17 +2,25 @@ textarea, input {
     display: block;
 }
 
-#input {
+.textareas {
+    display: flex;
+    gap: 40px;
+}
+
+textarea {
     width: 400px;
     height: 300px;
 }
 
-#chapter {
-    width: 400px;
+#inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 20px 0;
 }
 
-input {
-    margin-top: 20px;
+input[type="text"] {
+    width: 400px;
 }
 
 .buttons {
